@@ -7,7 +7,6 @@ Un juego clásico de Snake desarrollado con [Next.js](https://nextjs.org/) y est
 ## 🎮 Demo
 
 [🚀 Ver juego en vivo](https://tudominio.com)  
-*(Agrega aquí el enlace cuando esté deployado)*
 
 ---
 
@@ -16,17 +15,15 @@ Un juego clásico de Snake desarrollado con [Next.js](https://nextjs.org/) y est
 - 🔹 [Next.js](https://nextjs.org/) – Framework de React con SSR y optimización automática
 - 🔹 [React](https://react.dev/) – Librería de UI basada en componentes
 - 🔹 [Tailwind CSS](https://tailwindcss.com/) – Framework de utilidades para estilos rápidos y personalizables
-- 🔹 [TypeScript](https://www.typescriptlang.org/) *(opcional, si lo usaste)*
+- 🔹 [TypeScript](https://www.typescriptlang.org/)
 
 ---
 
 ## 🚀 Características
 
-- ✅ Movimiento en tiempo real con teclas de flecha
+- ✅ Movimiento en tiempo real con teclas de flecha y awsd
 - ✅ Sistema de colisiones y reinicio automático
-- ✅ Puntuación en tiempo real
 - ✅ Diseño responsive y limpio con Tailwind
-- ✅ Animaciones suaves (opcional)
 
 ---
 
@@ -35,7 +32,7 @@ Un juego clásico de Snake desarrollado con [Next.js](https://nextjs.org/) y est
 Clona el repositorio e instala las dependencias:
 
 ```bash
-git clone https://github.com/tu-usuario/snake-nextjs.git
+git clone https://github.com/Jonvtvn/snake.git
 ```
 ```bash
 cd snake-nextjs
