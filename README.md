@@ -6,7 +6,7 @@ Un juego clásico de Snake desarrollado con [Next.js](https://nextjs.org/) y est
 
 ## 🎮 Demo
 
-[🚀 Ver juego en vivo](https://tudominio.com)  
+[🚀 Ver juego en vivo](https://snake-web-app.vercel.app/)  
 
 ---
 
