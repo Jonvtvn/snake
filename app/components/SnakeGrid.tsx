@@ -95,11 +95,6 @@ export default function Home() {
         setFood({ x, y });
     };
 
-    const changeDirection = (direction: Direction) => {
-        setTimeout(() => {
-            setDirection(direction);
-        }, 500);
-    };
 
     const handleKeyPress = (event: KeyboardEvent<HTMLDivElement>): void => {
         if ((event.key === "ArrowUp" || event.key === "w" || event.key === "W") && direction !== "DOWN") {
