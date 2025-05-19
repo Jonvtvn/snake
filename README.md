@@ -23,7 +23,13 @@ Un juego clásico de Snake desarrollado con [Next.js](https://nextjs.org/) y est
 
 - ✅ Movimiento en tiempo real con teclas de flecha y awsd
 - ✅ Sistema de colisiones y reinicio automático
-- ✅ Diseño responsive y limpio con Tailwind
+
+---
+
+## ⚠️ Aviso
+
+🖥️ Este proyecto está pensado **únicamente para vista en computadoras**.  
+📱 Dispositivos móviles o tablets **no están soportados**.
 
 ---
 
