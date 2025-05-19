@@ -36,6 +36,7 @@ Clona el repositorio e instala las dependencias:
 
 ```bash
 git clone https://github.com/tu-usuario/snake-nextjs.git
+```
 cd snake-nextjs
 npm install
 
