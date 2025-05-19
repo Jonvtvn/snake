@@ -49,3 +49,11 @@ npm install
 ```bash
 npm run dev
 ```
+
+---
+
+## 📸 Capturas del sitio
+
+A continuación se muestran algunas vistas del diseño de la página:
+
+![Vista 1](./public/snake.png)
